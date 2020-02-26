@@ -41,7 +41,7 @@ class TaskScreen extends StatelessWidget {
                   height: 10.0,
                 ),
                 Text(
-                  'Todo App',
+                  'My Todo',
                   style: TextStyle(
                       color: Colors.white,
                       fontSize: 30.0,

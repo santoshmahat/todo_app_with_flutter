@@ -1,6 +1,7 @@
 # todo_app_flutter
 
-A new Flutter project.
+This is a simple todo application with functionality to create, update, delete and read task.
+Provider package is used for the state management of the app.
 
 ## Getting Started
 
